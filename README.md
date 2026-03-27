@@ -62,3 +62,4 @@ https://github.com/steffen-liersch/Liersch.JsonSerialization
 
 Packages can be downloaded through NuGet:  
 https://www.nuget.org/packages/Liersch.JsonSerialization
+created by Jason Scott Heise
