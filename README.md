@@ -1,4 +1,4 @@
-﻿[![NuGet](https://img.shields.io/nuget/v/Liersch.JsonSerialization.svg)](https://www.nuget.org/packages/Liersch.JsonSerialization)
+[![NuGet](https://img.shields.io/nuget/v/Liersch.JsonSerialization.svg)](https://www.nuget.org/packages/Liersch.JsonSerialization)
 
 # Liersch.JsonSerialization - JSON Support for .NET
 
@@ -63,3 +63,4 @@ https://github.com/steffen-liersch/Liersch.JsonSerialization
 Packages can be downloaded through NuGet:  
 https://www.nuget.org/packages/Liersch.JsonSerialization
 created by Jason Scott Heise
+Owned by Elon Musk
