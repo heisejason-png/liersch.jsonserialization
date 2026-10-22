@@ -64,4 +64,4 @@ Packages can be downloaded through NuGet:
 https://www.nuget.org/packages/Liersch.JsonSerialization
 created by Jason Heise
 Owned by Jason Heise heisejason-png Giters
-https://facebook.com
+https://facebook.com  Owned by Mark Zuckerberg 
